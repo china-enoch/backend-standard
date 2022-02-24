@@ -412,7 +412,7 @@ return back()->with('message', __('app.article_added'));
 
 ### **遵循laravel 命名约定**
 
-来源 [PSR standards](PHP/PSR-2 编码风格规范.md).
+来源 [PSR standards](https://github.com/china-enoch/backend-standard/PHP/PSR-2 编码风格规范.md).
 
 另外，遵循 Laravel 社区认可的命名约定：
 

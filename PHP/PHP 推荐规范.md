@@ -14,40 +14,40 @@ PHP FIG（Framework Interoperability Group）框架可互用性小组是制定 P
 
 ### 规范介绍
 
-[PSR-0 自动加载规范（已弃用）](PHP/PSR-0 自动加载规范.md)
+[PSR-0 自动加载规范（已弃用）](https://github.com/china-enoch/backend-standard/PHP/PSR-0 自动加载规范.md)
 
-[PSR-1 基础编码规范](PHP/PSR-1 基础编码规范.md)
+[PSR-1 基础编码规范](https://github.com/china-enoch/backend-standard/PHP/PSR-1 基础编码规范.md)
 
-[PSR-2 编码风格规范（已弃用）](PHP/PSR-2 编码风格规范.md)
+[PSR-2 编码风格规范（已弃用）](https://github.com/china-enoch/backend-standard/PHP/PSR-2 编码风格规范.md)
 
-[PSR-3 日志接口规范](PHP/PSR-3 日志接口规范.md)
+[PSR-3 日志接口规范](https://github.com/china-enoch/backend-standard/PHP/PSR-3 日志接口规范.md)
 
-[PSR-4 自动加载规范](PHP/PSR-4 自动加载规范.md)
+[PSR-4 自动加载规范](https://github.com/china-enoch/backend-standard/PHP/PSR-4 自动加载规范.md)
 
-[PSR-5 PHPDoc 标准（未通过）](PHP/PSR-5 PHPDoc 标准.md)
+[PSR-5 PHPDoc 标准（未通过）](https://github.com/china-enoch/backend-standard/PHP/PSR-5 PHPDoc 标准.md)
 
-[PSR-6 缓存接口规范](PHP/PSR-6 缓存接口规范.md)
+[PSR-6 缓存接口规范](https://github.com/china-enoch/backend-standard/PHP/PSR-6 缓存接口规范.md)
 
-[PSR-7 HTTP 消息接口规范](PHP/PSR-7 HTTP 消息接口规范.md)
+[PSR-7 HTTP 消息接口规范](https://github.com/china-enoch/backend-standard/PHP/PSR-7 HTTP 消息接口规范.md)
 
-[PSR-8 Huggable 接口（未通过）](PHP/PSR-8 Huggable 接口.md)
+[PSR-8 Huggable 接口（未通过）](https://github.com/china-enoch/backend-standard/PHP/PSR-8 Huggable 接口.md)
 
-[PSR-9 项目安全问题公示（未通过）](PHP/PSR-9 项目安全问题公示.md)
+[PSR-9 项目安全问题公示（未通过）](https://github.com/china-enoch/backend-standard/PHP/PSR-9 项目安全问题公示.md)
 
-[PSR-10 项目安全上报方法（未通过）](PHP/PSR-10 项目安全上报方法.md)
+[PSR-10 项目安全上报方法（未通过）](https://github.com/china-enoch/backend-standard/PHP/PSR-10 项目安全上报方法.md)
 
-[PSR-11 容器接口](PHP/PSR-11 容器接口.md)
+[PSR-11 容器接口](https://github.com/china-enoch/backend-standard/PHP/PSR-11 容器接口.md)
 
-[PSR-12 编码规范扩充](PHP/PSR-12 编码规范扩充.md)
+[PSR-12 编码规范扩充](https://github.com/china-enoch/backend-standard/PHP/PSR-12 编码规范扩充.md)
 
-[PSR-13 超媒体链接](PHP/PSR-13 超媒体链接.md)
+[PSR-13 超媒体链接](https://github.com/china-enoch/backend-standard/PHP/PSR-13 超媒体链接.md)
 
-[PSR-14 时间分发器](PHP/PSR-14 时间分发器.md)
+[PSR-14 时间分发器](https://github.com/china-enoch/backend-standard/PHP/PSR-14 时间分发器.md)
 
-[PSR-15 HTTP 请求处理器](PHP/PSR-15 HTTP 请求处理器.md)
+[PSR-15 HTTP 请求处理器](https://github.com/china-enoch/backend-standard/PHP/PSR-15 HTTP 请求处理器.md)
 
-[PSR-16 缓存接口](PHP/PSR-16 缓存接口.md)
+[PSR-16 缓存接口](https://github.com/china-enoch/backend-standard/PHP/PSR-16 缓存接口.md)
 
-[PSR-17 HTTP 工厂](PHP/PSR-17 HTTP 工厂.md)
+[PSR-17 HTTP 工厂](https://github.com/china-enoch/backend-standard/PHP/PSR-17 HTTP 工厂.md)
 
-[PSR-18 HTTP 客户端](PHP/PSR-18 HTTP 客户端.md)
+[PSR-18 HTTP 客户端](https://github.com/china-enoch/backend-standard/PHP/PSR-18 HTTP 客户端.md)
