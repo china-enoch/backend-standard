@@ -14,7 +14,7 @@ PHP FIG（Framework Interoperability Group）框架可互用性小组是制定 P
 
 ### 规范介绍
 
-[PSR-0 自动加载规范（已弃用）](https://github.com/china-enoch/backend-standard/blob/main/blob/main/PHP/PSR-0%20%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD%E8%A7%84%E8%8C%83.md)
+[PSR-0 自动加载规范（已弃用）](https://github.com/china-enoch/backend-standard/blob/main/PHP/PSR-0%20%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD%E8%A7%84%E8%8C%83.md)
 
 [PSR-1 基础编码规范](https://github.com/china-enoch/backend-standard/blob/main/PHP/PSR-1%20基础编码规范.md)
 
