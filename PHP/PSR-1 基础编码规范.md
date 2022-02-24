@@ -11,7 +11,7 @@
 - PHP 代码文件 **必须** 以 `<?php` 或 `<?=` 标签开始；
 - PHP 代码文件 **必须** 以 `不带 BOM 的 UTF-8` 编码；
 - PHP 代码中 **应该** 声明任一标志（类、函数、常量等），或引起`副作用`（如果一个函数修改了自己范围之外的资源，那就叫做有副作用，如：生成输出以及修改 .ini 配置文件等），但是**不应该**二者都有；
-- 命名空间以及类 **必须** 符合 PSR 的自动加载规范： [[PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)（已废弃）或 [PSR-4](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)] 中的一个。
+- 命名空间以及类 **必须** 符合 PSR 的自动加载规范： [[PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md) （已废弃）或 [PSR-4](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md) ] 中的一个。
 - 类的命名 **必须** 遵循 `StudlyCaps` 大写开头的驼峰命名规范；
 - 类中的常量所有字母都 **必须** 大写，单词间用下划线分隔；
 - 方法名称 **必须** 符合 `camelCase` 式的小写开头驼峰命名规范。
@@ -76,7 +76,7 @@ if (! function_exists('bar')) {
 
 ## 3. 命名空间和类名
 
-命名空间和类名 **必须** 遵循『自动加载』规范： [[PSR-0](https://learnku.com/docs/psr/psr-0-automatic-loading-specification)， [PSR-4](https://learnku.com/docs/psr/psr-4-autoloader)]。
+命名空间和类名 **必须** 遵循『自动加载』规范： [[PSR-0](https://learnku.com/docs/psr/psr-0-automatic-loading-specification) ， [PSR-4](https://learnku.com/docs/psr/psr-4-autoloader) ]。
 
 这意味着每个类都独立为一个文件，并且至少在一个层次的命名空间内，那就是：顶级组织名（vendor name）。
 

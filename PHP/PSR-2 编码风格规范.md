@@ -2,7 +2,7 @@
 
 # 编码风格指南
 
-本篇规范是 [PSR-1](https://learnku.com/docs/psr/basic-coding-standard/1605) 基本代码规范的继承与扩展。
+本篇规范是 [PSR-1](https://github.com/china-enoch/backend-standard/blob/main/PHP/PSR-1%20%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md) 基本代码规范的继承与扩展。
 
 本规范希望通过制定一系列规范化 PHP 代码的规则，以减少在浏览不同作者的代码时，因代码风格的不同而造成不便。
 
@@ -14,7 +14,7 @@
 
 ## 1. 概览
 
-- 代码 **必须** 遵循 [[PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)] 中的编码规范 。
+- 代码 **必须** 遵循 [[PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) ] 中的编码规范 。
 - 代码 **必须** 使用 4 个空格符而不是「Tab 键」进行缩进。
 - 每行的字符数 **应该** 软性保持在 80 个之内，理论上 **一定不可** 多于 120 个，但 **一定不可** 有硬性限制。
 - 每个 `namespace` 命名空间声明语句和 `use` 声明语句块后面，**必须** 插入一个空白行。

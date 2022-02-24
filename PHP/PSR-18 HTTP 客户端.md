@@ -28,7 +28,7 @@
 
 如果客户端选择更改 HTTP 请求或 HTTP 响应，它 **必须** 确保对象保持内部一致。例如，如果客户端解压缩了消息体，那么它 **必须** 删除请求头里面的 `Content-Encoding` 并调整 `Content-Length` 。
 
-注意，由于 [PSR-7 对象是不可变的](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-7-http-message-meta.md#why-value-objects)，因此调用库 **不能** 假定传递给 `ClientInterface::sendRequest()` 的对象与实际发送的 PHP 对象相同。例如，异常返回的请求对象 **可能** 和传递给 `sendRequest()` 的对象不一样，因此不能通过全等号 (===) 进行比较。
+注意，由于 [PSR-7 对象是不可变的](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-7-http-message-meta.md#why-value-objects) ，因此调用库 **不能** 假定传递给 `ClientInterface::sendRequest()` 的对象与实际发送的 PHP 对象相同。例如，异常返回的请求对象 **可能** 和传递给 `sendRequest()` 的对象不一样，因此不能通过全等号 (===) 进行比较。
 
 客户端 **必须** 实现以下功能：
 

@@ -1,4 +1,4 @@
-# PSR-16 说明文档
+# PSR-16 缓存接口 - 说明文档
 
 ## 1. 概要
 
@@ -25,34 +25,7 @@ PSR-6 已经解决了这个问题，但是在一些简单的用例中显得过�
 
 在设计上，实现的方法是贫乏的，因为它只在最简单的场景中使用。它无需被所有的缓冲后端实现，也无需在所有的场景中使用。它只是在 PSR-6 的基础上提供了简便的封装。
 
-## 5. 人物
-
-### 5.1 编辑
-
-- Paul Dragoonis (@dragoonis)
-
-### 5.2 赞助商
-
-- Jordi Boggiano (@seldaek) - Composer (Coordinator)
-- Fabien Potencier (@fabpot) - Symfony
-
-### 5.3 贡献者
-
-以下名单编写了这个 PSR 缓存标准的草案：
-
-- Evert Pot (@evert)
-- Florin Pățan (@dlsniper)
-
-以下名单是早期的审稿人
-
-- Daniel Messenger (@dannym87)
-
-## 6. 投票
-
-- 投票入口: [groups.google.com/d/topic/php-fig/...](https://groups.google.com/d/topic/php-fig/vyQTKHS6pJ8/discussion)
-- 接受投票: [groups.google.com/d/msg/php-fig/A8...](https://groups.google.com/d/msg/php-fig/A8e6GvDRGIk/HQBJGEhbDQAJ)
-
-## 7. 相关链接
+## 5. 相关链接
 
 - [现存各种缓存实现方案调查](https://docs.google.com/spreadsheet/ccc?key=0Ak2JdGialLildEM2UjlOdnA4ekg3R1Bfeng5eGlZc1E#gid=0) , by @dragoonis
 

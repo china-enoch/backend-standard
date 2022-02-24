@@ -202,32 +202,9 @@ function set_widget(TaggablePoolInterface $pool, Widget $widget)
 
 有人建议让 Pool 实现 ArrayAccess，这将允许缓存获取 / 设置操作使用数组语法。 由于应用有限而被拒绝，该方法的灵活性有限（使用默认控制信息进行简单的获取和设置就可以实现），如果需要，将特定实现包含为附加组件很简单。
 
-## 5. 参与者
+## 5. 其他
 
-### 5.1 文档
-
-- Larry Garfield
-
-### 5.2 赞助商
-
-- Paul Dragoonis, PPI Framework (Coordinator)
-- Robert Hafner, Stash
-
-## 6. 投票详情
-
-[Acceptance vote on the mailing list](https://groups.google.com/forum/#!msg/php-fig/dSw5IhpKJ1g/O9wpqizWAwAJ)
-
-## 7. 链接
-
-*Note: Order descending chronologically.*
-
-- [Survey of existing cache implementations](https://docs.google.com/spreadsheet/ccc?key=0Ak2JdGialLildEM2UjlOdnA4ekg3R1Bfeng5eGlZc1E#gid=0), by @dragoonis
-- [Strong vs. Weak informal poll](https://docs.google.com/spreadsheet/ccc?key=0AsMrMKNHL1uGdDdVd2llN1kxczZQejZaa3JHcXA3b0E#gid=0), by @Crell
-- [Implementation details informal poll](https://docs.google.com/spreadsheet/ccc?key=0AsMrMKNHL1uGdEE3SU8zclNtdTNobWxpZnFyR0llSXc#gid=1), by @Crell
-
-## 8. 其他
-
-### 8.1 在 expiresAt () 中处理不正确的 DateTime 值
+### 5.1 在 expiresAt () 中处理不正确的 DateTime 值
 
 在接口中  `CacheItemInterface::expiresAt()` 方法的 `$expiration` 参数中我们未做类型提示，但在文档块中将其指定为 `\DateTimeInterface`。 目的是允许使用  `\DateTime` 或 `\DateTimeImmutable` 对象。 但是，在 PHP 5.5 中添加了 `\DateTimeInterface` 和  `\DateTimeImmutable`，并且作者选择不在规范上强加 PHP 5.5 的严格语法要求。
 

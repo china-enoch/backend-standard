@@ -90,7 +90,7 @@ PSR-1 中的术语 ‘StudlyCaps’ 必须解释为 PascalCase （帕斯卡命�
 
 ### 2.5 关键词和类型
 
-PHP 的所有关键字和类型 [[1\]](https://www.php.net/manual/en/reserved.keywords.php)[[2\]](https://www.php.net/manual/en/reserved.other-reserved-words.php) 都**必须**使用小写。
+PHP 的所有关键字和类型 [[1\]](https://www.php.net/manual/en/reserved.keywords.php) [[2\]](https://www.php.net/manual/en/reserved.other-reserved-words.php) 都**必须**使用小写。
 
 PHP 未来版本中新加的所有关键字和类型也都**必须**使用小写。
 

@@ -293,41 +293,7 @@ try {
 
 这个列表不包含所有的容器实现和使用者，这里仅仅是一些对 PSR 有着巨大兴趣的项目例子。
 
-1. 人员
-
-------
-
-### 9.1 编者
-
-- [Matthieu Napoli](https://github.com/mnapoli)
-- [David Négrier](https://github.com/moufmouf)
-
-### 9.2 发起人
-
-- [Matthew Weier O'Phinney](https://github.com/weierophinney) (Coordinator)
-- [Korvin Szanto](https://github.com/KorvinSzanto)
-
-### 9.3 贡献者
-
-这里列出的是所有参与过讨论或投票的人员（在 container-interop 项目或者是项目迁移到 PSR-11 的期间），人名按字母顺序排列：
-
-- [Alexandru Pătrănescu](https://github.com/drealecs)
-- [Amy Stephen](https://github.com/AmyStephen)
-- [Ben Peachey](https://github.com/potherca)
-- [David Négrier](https://github.com/moufmouf)
-- [Don Gilbert](https://github.com/dongilbert)
-- [Jason Judge](https://github.com/judgej)
-- [Jeremy Lindblom](https://github.com/jeremeamia)
-- [Larry Garfield](https://github.com/crell)
-- [Marco Pivetta](https://github.com/Ocramius)
-- [Matthieu Napoli](https://github.com/mnapoli)
-- [Nelson J Morais](https://github.com/njasm)
-- [Paul M. Jones](https://github.com/pmjones)
-- [Phil Sturgeon](https://github.com/philsturgeon)
-- [Stephan Hochdörfer](https://github.com/shochdoerfer)
-- [Taylor Otwell](https://github.com/taylorotwell)
-
-## 10. 相关链接
+## 8. 相关链接
 
 1. [容器 PSR 和服务定位器的讨论](https://groups.google.com/forum/#!topic/php-fig/pyTXRvLGpsw)
 2. [Container-interop 项目的  `ContainerI...`](https://github.com/container-interop/container-interop/blob/master/src/Interop/Container/ContainerInterface.php)

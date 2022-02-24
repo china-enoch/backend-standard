@@ -424,7 +424,7 @@ stream_copy_to_stream($stream, $s3wrapper);
 
 ## 2. 扩展包
 
-上面讨论的接口和类库已经整合成为扩展包：[psr/http-message](https://packagist.org/packages/psr/http-message)。
+上面讨论的接口和类库已经整合成为扩展包：[psr/http-message](https://packagist.org/packages/psr/http-message)
 
 ## 3. 接口
 
