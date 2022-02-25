@@ -2,7 +2,7 @@
 
 # 编码风格指南
 
-本篇规范是 [PSR-1](https://github.com/china-enoch/backend-standard/blob/main/PHP/PSR-1%20%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md) 基本代码规范的继承与扩展。
+本篇规范是 [PSR-1](/PHP/PSR-1%20%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md) 基本代码规范的继承与扩展。
 
 本规范希望通过制定一系列规范化 PHP 代码的规则，以减少在浏览不同作者的代码时，因代码风格的不同而造成不便。
 
